@@ -1,4 +1,4 @@
-taco
+tafy
 ====
 
-Test automation component objects
+Test automation framework
